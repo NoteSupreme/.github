@@ -13,4 +13,4 @@ Each one is a NoteSupreme Ship published read-only. Paste the URL into your AI a
 
 ## Make your own
 
-Every Ship in a NoteSupreme account gets three MCPs: **Code Mode** (one tool, the AI writes code against your notes and only the answer enters context), **Regular** (23 plain tools for any MCP app), and **Read-only** (publish it and share the link, like the two above). Built-in RAG search, no vector database, up to 97% fewer tokens. Free for 5 Ships, no card.
+Every Ship in a NoteSupreme account gets three MCPs: **Code Mode** (one tool, the AI writes code against your notes and only the answer enters context), **Regular** (23 plain tools for any MCP app), and **Read-only** (publish it and share the link, like the two above). Built-in RAG search on Google's Open Knowledge Format (OKF), no vector database, up to 97% fewer tokens. Free for 5 Ships, no card.
